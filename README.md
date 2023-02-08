@@ -1,7 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Cross Validation, Train-Test-Split
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) The Bias-Variance Tradeoff, The Train-Test Split, and Cross Validation
 
 ## Materials We Provide
-
 
 | Topic | Description | Link |
 | --- | --- | --- |
@@ -15,6 +14,7 @@
 - Describe train/test split and cross-validation.
 - Explain how these validation techniques differ and why we want to use them.
 - Split data into testing and training sets using both train/test split and cross-validation and apply both techniques to score a model.
+
 ---
 
 ## Lesson Outline
